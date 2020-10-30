@@ -1,2 +1,1 @@
-# Face-Mask-Detector
-Computer Vision
+# face-mask-detector
